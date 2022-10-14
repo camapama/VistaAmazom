@@ -1,0 +1,15 @@
+com/palacio/dao/MovieDAO.class
+com/palacio/makereport/Main.class
+com/palacio/makereport/Report.class
+com/palacio/model/Magazine.class
+com/palacio/model/Serie.class
+com/palacio/db/IDBConnection.class
+com/palacio/model/Book.class
+com/palacio/model/Publication.class
+com/palacio/app/App.class
+com/palacio/model/Chapter.class
+com/palacio/model/Movie.class
+com/palacio/model/Film.class
+com/palacio/util/AmazonUtil.class
+com/palacio/model/IVisualizable.class
+com/palacio/db/DataBase.class

@@ -1,0 +1,15 @@
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/model/IVisualizable.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/model/Movie.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/model/Magazine.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/makereport/Main.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/db/DataBase.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/model/Publication.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/model/Serie.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/model/Film.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/model/Chapter.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/model/Book.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/app/App.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/dao/MovieDAO.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/util/AmazonUtil.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/db/IDBConnection.java
+/home/runner/VistaAmazom/mi-app/src/main/java/com/palacio/makereport/Report.java
